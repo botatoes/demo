@@ -12,6 +12,12 @@ https://user-images.githubusercontent.com/7900087/115066217-10e1f100-9ea4-11eb-8
 
 
 ```rb
+# We just added a copy button to all code blocks
+ 
+puts 'Happy Monday!!'
+```
+
+```rb
 require_relative "helper"
 
  module GetUsersUserNameSharedTests
